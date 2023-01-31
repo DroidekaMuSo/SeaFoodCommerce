@@ -1,0 +1,133 @@
+{
+  "delCazo": [
+    {
+      "name": "Empanada",
+      "description": "Deliciosa empanada de harina de trigo",
+      "additional": "Rellena a su eleccion ya sea con tsurimi, camaron,pulpo y ceviche de pescado. "
+    },
+    {
+      "name": "Pescadillas",
+      "description": "Filete de pescado (cason, sierra o merlusa) rebozado en harina.",
+      "additional": "Acompañadas con cilantro, cebolla y aguacate"
+    },
+    {
+      "name": "Quesadillas de ceviche de pescado.",
+      "description": "Totilla de maiz rellena de pescado guisado, doblada y freida en aceite",
+      "additional": "Acompañadas con cilantro, cebolla y aguacate."
+    }
+  ],
+  "calientes": [
+    {
+      "name": "Sopa de Mariscos",
+      "description": "Caldo de pescado condimentado con jitomate y chile chipotle",
+      "additional": "Adicionado con Pulpo, Tsurimi,Camaron pelado, Camaron con cascara, Ceviche de Pescado y Ostiones, con cebolla, cilantro y aguacate. "
+    },
+    {
+      "name": "Caldo de camaron",
+      "desciption": "Caldo de pescado condimentado con jitomate y chile chipotle",
+      "additional": "Adicionado con Camaron pelado o con cascara, con cebolla, cilantro y aguacate."
+    },
+    {
+      "name": "Consome de camaron",
+      "description": "Caldo de pescado condimentado con jitomate y chile chipotle",
+      "additional": "Adicionado con Camaron pelado, con cebolla, cilantro y aguacate."
+    },
+    {
+      "name": "Levanta Muertos",
+      "description": "Caldo de pescado condimentado con jitomate, chile chipotle y condimentado con salsa habanera. Perfecta eleccion para quitarse la cruda",
+      "additional": "Adicionado con Camaron pelado, con cebolla, cilantro y aguacate."
+    }
+  ],
+  "especialidades": [
+    {
+      "name": "Camarones empanizados",
+      "description": "Camarones cocktaleros o grandes empanizados y fritos",
+      "additional": "Acompañados con ensalda cesar y arroz rojo"
+    },
+    {
+      "name": "Camarones a la Kentucky",
+      "description": "Camarones cocktaleros o grandes empanizados con nuesta receta estilo kentucky y fritos",
+      "additional": "Acompañados con ensalda cesar y arroz rojo"
+    },
+    {
+      "name": "Camarones a la diabla",
+      "description": "Combinacion de camarones cocktaleros con pulpo, adicionado con chile chiplote.",
+      "additional": "Acompañados con ensalda cesar y arroz rojo"
+    },
+    {
+      "name": "Momias",
+      "description": "Camarones rellenos de queso Oaxaca, envueltos en una capa de tocino y fritos al comal",
+      "additional": "Acompañadas con ensalda cesar y arroz rojo"
+    },
+    {
+      "name": "Salmon",
+      "description": "Trozo de salmon a la plancha",
+      "additional": "Acompañado con ensalda cesar y arroz rojo"
+    },
+    {
+      "name": "Medallon de atun",
+      "description": "Medallon de atun a la plancha",
+      "additional": "Acompañado con ensalda cesar y arroz rojo"
+    },
+    {
+      "name": "Alambra de Marsicos",
+      "description": "Combinacion de mariscos (camarones, pulpo, tsurimi y pescado), adicionado con queso Oaxaca y chile morron"
+    },
+    {
+      "name": "Burritas",
+      "description": "Tortillas de harina, untadas con chile chiplote y rellenada de camaron, tsurimi y pulpo.",
+      "additional": "Acompañadas con mayonesa, cebolla, jitomate y aguacate"
+    },
+    {
+      "name": "Pescado empanizado",
+      "description": "Lomo de pescado, empanizado y frito ",
+      "additional": "Acompañado con cebolla, jitomate y aguacate"
+    },
+    {
+      "name": "Pescado empapelado",
+      "description": "Lomo de pescado, acompañado con mezcla de mariscos a eleccion",
+      "additional": "Acompañado con ensalada cesar y arroz rojo"
+    },
+    {
+      "name": "Aguachile",
+      "description": "Camarones abiertos a la mitar, con pepino. Condimentados con sal, limon y chile habanero"
+    }
+  ],
+  "delMar": [
+    {
+      "name": "Vuelve a la vida",
+      "description": "Mezcla de camarones, pulpo, tsurimi, ceviche de pescado y ostiones.",
+      "addtional": "Acompañados con nuestra receta de la casa tipo catsup, cebolla, cilantro, aguacate, salsa bruja, limon y aceite de olvida"
+    },
+    {
+      "name": "Cocktail",
+      "description": "Seleccion de camarones",
+      "addtional": "Acompañados con nuestra receta de la casa tipo catsup, cebolla, cilantro, aguacate, salsa bruja, limon y aceite de olvida"
+    },
+    {
+      "name": "Cocktail",
+      "description": "Seleccion de camarones",
+      "addtional": "Acompañados con nuestra receta de la casa tipo catsup, cebolla, cilantro, aguacate, salsa bruja, limon y aceite de olvida"
+    },
+    {
+      "name": "Ostiones en su concha",
+      "description": "Ostiones abiertos en su cocha",
+      "addtional": "Acompañados cebolla, cilantro, aguacate, salsa bruja, limon"
+    },
+    {
+      "name": "Patas de mulas",
+      "description": "Patas de mulas abiertas en su cocha",
+      "addtional": "Acompañados cebolla, cilantro, aguacate, salsa bruja, limon"
+    },
+    {
+      "name": "Tostadas",
+      "description": "Tostada de tortilla de maiz con tsurimi, camaron, pulpo o cevivhe de pescado",
+      "addtional": "Acompañados cebolla, cilantro y aguacate"
+    },
+    {
+      "name": "Volcan",
+      "description": "Tostada de tortilla de maiz con tsurimi, camaron, pulpo y cevivhe de pescado",
+      "addtional": "Acompañados cebolla, cilantro y aguacate"
+    }
+  ]
+}
