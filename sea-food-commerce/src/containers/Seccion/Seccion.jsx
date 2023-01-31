@@ -5,15 +5,12 @@ import products from "../../products.json";
 const Seccion = () => {
   const [food, setfood] = useState({});
   useEffect(() => {
-    setfood(products);
+    setfood(food)
     console.log(food);
-    console.log(food.calientes);
   }, []);
 
   return (
-    <div>
-      {/* <SeccionComida title="Del Cazo" meals={food.delCazo} /> */}
-    </div>
+    <div>{/* <SeccionComida title="Del Cazo" meals={food.delCazo} /> */}</div>
   );
 };
 
